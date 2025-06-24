@@ -74,5 +74,5 @@ Gained hands-on experience in:
 ---
 
 ## 📌 Preview
-![Dashboard Preview](E:\Elevate Labs\Sales_Data_Report.gif)
+![Dashboard Preview](./Sales_Data_Report.gif)
 
