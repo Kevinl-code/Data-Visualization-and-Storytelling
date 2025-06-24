@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./kevin.jpg" width="150" height="150">
-</p>
-
 # 📊 Data Visualization & Storytelling – Sales Performance Dashboard
 
 ## 🎯 Objective
@@ -81,6 +77,10 @@ Gained hands-on experience in:
 ![Dashboard Preview](./Sales_Data_Report.gif)
 
 ## 🧠 Author
+
+<p>
+  <img src="./kevin.jpg" width="60" height="60">
+</p>
 
 **Kevin Lazarus**  
 *Final-Year B.Sc. Computer Science Student*  
