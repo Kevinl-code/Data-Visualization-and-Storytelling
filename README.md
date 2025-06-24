@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./kevin.jpg" width="150" height="150">
+</p>
+
 # 📊 Data Visualization & Storytelling – Sales Performance Dashboard
 
 ## 🎯 Objective
