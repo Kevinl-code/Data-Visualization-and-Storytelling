@@ -76,3 +76,14 @@ Gained hands-on experience in:
 ## 📌 Preview
 ![Dashboard Preview](./Sales_Data_Report.gif)
 
+## 🧠 Author
+
+**Kevin Lazarus**  
+*Final-Year B.Sc. Computer Science Student*  
+*St. Joseph's College, Tiruchirappalli (Trichy), Tamil Nadu, India*
+
+This data visualization and storytelling project was completed as part of internship and skill development in the field of Data Analytics. It demonstrates key skills in business intelligence, visual storytelling, and dashboard development using Google Data Studio (Looker Studio). The project focuses on transforming raw sales data into actionable insights through clear and compelling visual narratives.
+
+🔗 *Connect & Learn More:*  
+📧 Email: [kevinlazarus2003@example.com]  
+🔗 LinkedIn: [linkedin.com/in/kevinlazarusb](https://www.linkedin.com/in/kevinlazarusb)
