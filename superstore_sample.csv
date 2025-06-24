@@ -1,0 +1,301 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,City,State,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-47648,2021-09-20,2021-09-24,Same Day,C-1081,Corporate,New York City,Illinois,Central,P-3250,Furniture,Bookcases,Bookcases 869,285.48,10,0.1,28.55
+CA-55887,2019-11-19,2019-11-26,First Class,C-8054,Corporate,Chicago,New York,East,P-1251,Technology,Phones,Phones 394,886.09,2,0.2,0.0
+CA-14834,2020-05-05,2020-05-10,First Class,C-8324,Corporate,Miami,California,South,P-8184,Furniture,Bookcases,Bookcases 113,103.58,2,0.3,-10.36
+CA-22650,2019-02-22,2019-02-27,First Class,C-3490,Corporate,Miami,California,West,P-1324,Office Supplies,Art,Art 492,473.82,3,0.3,-47.38
+CA-61666,2019-06-27,2019-06-30,Second Class,C-1839,Consumer,Chicago,California,West,P-8381,Furniture,Tables,Tables 757,873.13,10,0.3,-87.31
+CA-19447,2019-08-15,2019-08-21,Same Day,C-1010,Consumer,Miami,New York,South,P-5344,Technology,Phones,Phones 550,228.49,2,0.0,45.7
+CA-50935,2019-03-13,2019-03-16,Standard Class,C-2712,Corporate,Miami,Florida,West,P-7343,Office Supplies,Art,Art 980,407.68,6,0.3,-40.77
+CA-70083,2019-10-09,2019-10-13,Standard Class,C-6538,Consumer,Miami,New York,West,P-8700,Technology,Accessories,Accessories 130,117.37,6,0.2,0.0
+CA-10963,2019-10-11,2019-10-17,Standard Class,C-7501,Consumer,New York City,New York,South,P-2030,Furniture,Furnishings,Furnishings 706,921.36,3,0.3,-92.14
+CA-49511,2021-01-23,2021-01-28,First Class,C-9334,Consumer,Miami,Texas,West,P-5988,Office Supplies,Binders,Binders 329,316.96,4,0.3,-31.7
+CA-45525,2019-03-26,2019-04-02,Standard Class,C-9729,Corporate,Miami,Texas,East,P-6975,Office Supplies,Labels,Labels 334,156.26,4,0.2,0.0
+CA-23224,2019-10-19,2019-10-26,First Class,C-4566,Consumer,Houston,California,West,P-3810,Office Supplies,Paper,Paper 449,86.33,5,0.3,-8.63
+CA-98331,2019-07-19,2019-07-24,First Class,C-2221,Home Office,Chicago,Florida,East,P-9079,Technology,Phones,Phones 211,33.0,3,0.3,-3.3
+CA-10468,2020-09-17,2020-09-23,Second Class,C-1752,Corporate,Chicago,Texas,Central,P-8307,Office Supplies,Paper,Paper 680,203.81,7,0.2,0.0
+CA-15324,2019-03-02,2019-03-03,Second Class,C-3232,Home Office,New York City,Illinois,Central,P-3630,Technology,Machines,Machines 372,124.64,3,0.2,0.0
+CA-39137,2021-06-23,2021-06-25,First Class,C-5263,Home Office,Houston,Florida,South,P-4622,Technology,Copiers,Copiers 192,827.8,5,0.2,0.0
+CA-37945,2019-12-28,2019-12-29,Standard Class,C-8684,Home Office,Miami,California,West,P-5459,Furniture,Bookcases,Bookcases 996,866.66,7,0.1,86.67
+CA-96743,2019-01-27,2019-02-02,Second Class,C-3023,Corporate,Miami,Illinois,West,P-1732,Technology,Accessories,Accessories 947,326.83,7,0.3,-32.68
+CA-65259,2019-11-17,2019-11-21,Same Day,C-9441,Consumer,Los Angeles,Illinois,South,P-5749,Office Supplies,Paper,Paper 144,433.33,1,0.1,43.33
+CA-35725,2021-02-07,2021-02-14,Standard Class,C-3135,Consumer,Los Angeles,Illinois,West,P-2501,Office Supplies,Paper,Paper 165,471.94,3,0.0,94.39
+CA-17936,2019-03-22,2019-03-26,Same Day,C-7776,Corporate,Miami,Texas,South,P-3164,Technology,Machines,Machines 227,12.77,10,0.0,2.55
+CA-85351,2019-01-06,2019-01-07,First Class,C-8089,Corporate,New York City,California,East,P-4248,Office Supplies,Paper,Paper 437,51.95,1,0.0,10.39
+CA-97202,2019-03-07,2019-03-10,Same Day,C-9498,Corporate,New York City,New York,South,P-2686,Technology,Machines,Machines 366,767.06,8,0.0,153.41
+CA-36741,2021-08-25,2021-08-26,Same Day,C-2408,Corporate,Miami,Texas,South,P-4701,Technology,Accessories,Accessories 236,804.31,3,0.2,0.0
+CA-84720,2021-04-30,2021-05-04,Same Day,C-8264,Corporate,Houston,Florida,West,P-5093,Technology,Machines,Machines 401,434.85,9,0.3,-43.48
+CA-72079,2019-06-22,2019-06-27,Same Day,C-1928,Corporate,Miami,Texas,East,P-8313,Furniture,Furnishings,Furnishings 729,31.37,7,0.3,-3.14
+CA-96097,2020-03-04,2020-03-10,First Class,C-6245,Home Office,Los Angeles,Illinois,South,P-1397,Office Supplies,Binders,Binders 627,95.99,10,0.3,-9.6
+CA-40624,2021-08-14,2021-08-20,First Class,C-2165,Home Office,Los Angeles,California,East,P-3444,Office Supplies,Labels,Labels 817,605.6,7,0.0,121.12
+CA-33664,2021-08-29,2021-08-30,Standard Class,C-4315,Home Office,Houston,New York,South,P-9726,Technology,Accessories,Accessories 543,32.3,6,0.0,6.46
+CA-60510,2021-09-25,2021-10-02,Same Day,C-9448,Consumer,Miami,Florida,South,P-1430,Office Supplies,Binders,Binders 160,900.48,8,0.1,90.05
+CA-36589,2020-12-15,2020-12-21,First Class,C-4148,Home Office,Miami,Florida,South,P-5919,Furniture,Furnishings,Furnishings 930,113.79,8,0.0,22.76
+CA-88439,2020-02-15,2020-02-21,Same Day,C-9774,Corporate,New York City,Texas,South,P-6565,Office Supplies,Labels,Labels 307,65.99,4,0.0,13.2
+CA-55890,2020-05-02,2020-05-09,First Class,C-7555,Corporate,Los Angeles,Illinois,Central,P-5894,Technology,Accessories,Accessories 568,525.6,8,0.2,0.0
+CA-85571,2021-05-08,2021-05-12,First Class,C-2859,Home Office,Houston,Texas,East,P-7289,Office Supplies,Paper,Paper 701,638.53,3,0.2,0.0
+CA-54792,2021-01-19,2021-01-26,Standard Class,C-9550,Home Office,Houston,New York,South,P-5648,Office Supplies,Binders,Binders 497,673.31,5,0.0,134.66
+CA-62968,2021-04-02,2021-04-05,Same Day,C-9344,Corporate,Miami,Texas,West,P-1805,Furniture,Bookcases,Bookcases 846,475.16,4,0.2,0.0
+CA-41798,2020-05-23,2020-05-29,First Class,C-1857,Corporate,Houston,New York,Central,P-4551,Technology,Copiers,Copiers 869,510.38,8,0.1,51.04
+CA-95316,2020-12-13,2020-12-15,Same Day,C-7137,Consumer,Los Angeles,Florida,East,P-5092,Office Supplies,Binders,Binders 150,369.96,3,0.3,-37.0
+CA-86549,2020-12-31,2021-01-07,Second Class,C-6980,Home Office,New York City,California,East,P-5840,Furniture,Bookcases,Bookcases 891,484.03,3,0.1,48.4
+CA-45836,2019-09-03,2019-09-06,Second Class,C-8247,Corporate,Miami,Illinois,Central,P-8934,Technology,Machines,Machines 441,365.4,10,0.1,36.54
+CA-50468,2020-10-17,2020-10-20,Same Day,C-3239,Consumer,New York City,California,South,P-7384,Office Supplies,Labels,Labels 604,661.05,6,0.1,66.11
+CA-90379,2019-01-13,2019-01-16,First Class,C-2330,Consumer,Los Angeles,Texas,West,P-5484,Technology,Machines,Machines 956,698.7,2,0.0,139.74
+CA-80615,2020-08-01,2020-08-08,Second Class,C-4102,Home Office,Miami,Texas,East,P-6258,Office Supplies,Paper,Paper 348,137.71,5,0.1,13.77
+CA-33524,2020-02-26,2020-03-02,Second Class,C-2181,Consumer,New York City,Illinois,East,P-8173,Furniture,Chairs,Chairs 247,752.42,9,0.2,0.0
+CA-36925,2020-07-28,2020-07-31,Standard Class,C-1648,Home Office,Los Angeles,Illinois,West,P-8585,Technology,Copiers,Copiers 664,503.32,3,0.2,0.0
+CA-24854,2021-07-10,2021-07-14,Standard Class,C-6275,Corporate,Houston,California,West,P-7273,Technology,Copiers,Copiers 683,664.0,9,0.0,132.8
+CA-89884,2020-04-28,2020-05-02,Second Class,C-5493,Corporate,Houston,California,West,P-8315,Technology,Machines,Machines 511,314.78,9,0.0,62.96
+CA-63176,2020-06-30,2020-07-04,Same Day,C-1885,Corporate,Chicago,Illinois,South,P-3318,Technology,Accessories,Accessories 270,367.56,9,0.1,36.76
+CA-66429,2020-09-03,2020-09-10,Same Day,C-2058,Consumer,Los Angeles,Illinois,South,P-2418,Technology,Copiers,Copiers 988,972.7,10,0.2,0.0
+CA-56478,2021-01-15,2021-01-16,Standard Class,C-7607,Consumer,Houston,Texas,Central,P-6431,Office Supplies,Labels,Labels 696,352.74,5,0.3,-35.27
+CA-35124,2021-03-14,2021-03-21,Same Day,C-5094,Consumer,Chicago,California,Central,P-5168,Technology,Phones,Phones 754,902.68,5,0.3,-90.27
+CA-74280,2019-06-24,2019-06-28,Standard Class,C-6047,Corporate,Los Angeles,Illinois,Central,P-2546,Technology,Machines,Machines 641,24.58,2,0.0,4.92
+CA-48165,2021-07-21,2021-07-25,Standard Class,C-3239,Home Office,Chicago,Florida,South,P-5909,Technology,Machines,Machines 960,544.26,1,0.1,54.43
+CA-25925,2019-05-07,2019-05-14,First Class,C-7742,Corporate,Los Angeles,Texas,East,P-1194,Technology,Machines,Machines 823,149.68,10,0.2,0.0
+CA-22361,2021-01-11,2021-01-17,Second Class,C-8713,Consumer,Miami,New York,South,P-6974,Technology,Copiers,Copiers 178,653.36,3,0.2,0.0
+CA-50965,2021-02-04,2021-02-07,Standard Class,C-1964,Consumer,Miami,Florida,East,P-5758,Office Supplies,Paper,Paper 677,471.6,3,0.0,94.32
+CA-68616,2020-03-14,2020-03-19,First Class,C-4916,Home Office,Chicago,Illinois,Central,P-1550,Office Supplies,Art,Art 715,721.69,6,0.1,72.17
+CA-13234,2019-08-04,2019-08-08,Standard Class,C-4130,Consumer,Los Angeles,California,East,P-3249,Furniture,Furnishings,Furnishings 492,563.09,4,0.2,0.0
+CA-23511,2021-07-10,2021-07-12,Standard Class,C-8151,Consumer,Houston,New York,South,P-2198,Office Supplies,Art,Art 423,319.0,5,0.3,-31.9
+CA-30198,2021-02-26,2021-03-01,Standard Class,C-4429,Consumer,Chicago,New York,East,P-1722,Technology,Copiers,Copiers 223,561.13,5,0.0,112.23
+CA-29606,2020-12-15,2020-12-17,Same Day,C-7180,Corporate,New York City,New York,East,P-7411,Office Supplies,Binders,Binders 543,310.74,2,0.2,0.0
+CA-33422,2021-01-27,2021-01-31,Same Day,C-8990,Corporate,Houston,Florida,Central,P-8226,Technology,Accessories,Accessories 804,333.31,8,0.0,66.66
+CA-86590,2019-10-26,2019-10-28,Same Day,C-7706,Home Office,Los Angeles,Illinois,West,P-5481,Technology,Accessories,Accessories 227,771.45,2,0.0,154.29
+CA-19252,2021-08-21,2021-08-28,Second Class,C-8714,Consumer,Los Angeles,Illinois,East,P-9296,Office Supplies,Paper,Paper 722,450.6,7,0.1,45.06
+CA-82906,2020-09-19,2020-09-24,Standard Class,C-1904,Consumer,Miami,New York,Central,P-6638,Technology,Copiers,Copiers 841,988.91,8,0.0,197.78
+CA-80657,2020-08-27,2020-08-28,First Class,C-6431,Home Office,New York City,Texas,Central,P-1855,Office Supplies,Paper,Paper 241,378.38,5,0.2,0.0
+CA-31254,2021-01-18,2021-01-25,Standard Class,C-7549,Corporate,Houston,Texas,Central,P-7730,Furniture,Chairs,Chairs 561,219.97,3,0.1,22.0
+CA-79842,2021-07-29,2021-08-02,First Class,C-8463,Consumer,Houston,California,South,P-8865,Furniture,Tables,Tables 341,267.76,2,0.2,0.0
+CA-33188,2019-09-11,2019-09-13,Same Day,C-7013,Corporate,Houston,Texas,South,P-1689,Technology,Machines,Machines 949,507.92,9,0.3,-50.79
+CA-83975,2021-05-22,2021-05-27,Same Day,C-9518,Home Office,Houston,New York,Central,P-4885,Office Supplies,Binders,Binders 823,939.54,2,0.3,-93.95
+CA-86932,2019-06-30,2019-07-06,Same Day,C-7651,Corporate,Miami,Florida,South,P-6848,Technology,Copiers,Copiers 574,495.72,10,0.0,99.14
+CA-77316,2020-07-24,2020-07-26,First Class,C-7362,Home Office,Houston,Florida,South,P-9696,Technology,Accessories,Accessories 621,483.54,9,0.2,0.0
+CA-53588,2019-02-24,2019-03-01,Standard Class,C-4123,Consumer,Chicago,Illinois,South,P-4266,Office Supplies,Paper,Paper 827,408.05,3,0.3,-40.8
+CA-47375,2019-02-20,2019-02-21,Same Day,C-3072,Consumer,Miami,Texas,West,P-8368,Furniture,Bookcases,Bookcases 514,235.5,3,0.0,47.1
+CA-95299,2021-03-27,2021-04-03,Same Day,C-1691,Home Office,Chicago,Texas,South,P-6945,Office Supplies,Paper,Paper 489,48.12,10,0.0,9.62
+CA-23279,2020-03-28,2020-03-31,First Class,C-6125,Consumer,Chicago,Florida,East,P-9319,Furniture,Chairs,Chairs 123,687.18,4,0.0,137.44
+CA-63471,2021-03-21,2021-03-28,Standard Class,C-3563,Corporate,Chicago,California,West,P-5889,Technology,Machines,Machines 988,679.59,6,0.0,135.92
+CA-91801,2020-04-07,2020-04-14,Same Day,C-6491,Consumer,Chicago,California,West,P-1223,Office Supplies,Paper,Paper 437,636.72,7,0.1,63.67
+CA-65420,2021-02-09,2021-02-16,Second Class,C-4978,Consumer,Chicago,California,East,P-9289,Furniture,Bookcases,Bookcases 942,828.77,7,0.0,165.75
+CA-47013,2020-08-11,2020-08-15,Standard Class,C-4759,Home Office,Houston,New York,South,P-7471,Technology,Phones,Phones 690,840.35,3,0.1,84.04
+CA-24757,2019-09-29,2019-10-03,Same Day,C-1770,Consumer,New York City,Texas,Central,P-6375,Furniture,Tables,Tables 519,17.19,1,0.1,1.72
+CA-66570,2019-12-08,2019-12-13,Same Day,C-9317,Home Office,Chicago,Texas,East,P-7331,Technology,Phones,Phones 461,314.49,4,0.1,31.45
+CA-48296,2020-09-28,2020-10-03,Same Day,C-1099,Home Office,Chicago,Illinois,South,P-8006,Office Supplies,Labels,Labels 557,693.74,4,0.2,0.0
+CA-30327,2020-03-06,2020-03-11,First Class,C-3042,Home Office,Houston,Texas,South,P-7660,Technology,Phones,Phones 518,393.84,5,0.2,0.0
+CA-18448,2020-03-24,2020-03-27,First Class,C-5109,Consumer,Los Angeles,Texas,Central,P-1046,Technology,Copiers,Copiers 791,817.73,8,0.2,0.0
+CA-51845,2020-09-22,2020-09-28,Same Day,C-5248,Corporate,Miami,Texas,Central,P-7954,Furniture,Bookcases,Bookcases 494,803.78,8,0.0,160.76
+CA-73625,2019-10-12,2019-10-14,Same Day,C-4036,Home Office,Houston,Texas,West,P-8822,Technology,Machines,Machines 851,115.63,2,0.0,23.13
+CA-57827,2020-09-26,2020-09-29,Same Day,C-6647,Home Office,Los Angeles,New York,West,P-9794,Office Supplies,Labels,Labels 386,295.67,7,0.0,59.13
+CA-59595,2020-06-14,2020-06-18,Standard Class,C-6671,Consumer,Los Angeles,California,South,P-3586,Furniture,Chairs,Chairs 490,655.63,2,0.0,131.13
+CA-48418,2020-06-09,2020-06-11,Same Day,C-7201,Corporate,Miami,Florida,West,P-1989,Technology,Accessories,Accessories 625,99.48,2,0.1,9.95
+CA-74002,2020-10-31,2020-11-02,Same Day,C-4822,Corporate,Los Angeles,New York,East,P-8734,Office Supplies,Art,Art 984,901.39,6,0.0,180.28
+CA-82310,2019-11-28,2019-12-02,Standard Class,C-7694,Consumer,Chicago,California,East,P-4649,Furniture,Furnishings,Furnishings 792,400.49,3,0.3,-40.05
+CA-86212,2019-04-12,2019-04-15,Same Day,C-6995,Consumer,Chicago,New York,Central,P-1543,Office Supplies,Art,Art 514,703.29,5,0.3,-70.33
+CA-73986,2019-07-16,2019-07-23,Second Class,C-5504,Home Office,Los Angeles,Texas,South,P-9305,Office Supplies,Labels,Labels 699,116.84,1,0.2,0.0
+CA-62558,2019-05-31,2019-06-04,Second Class,C-4196,Consumer,Houston,New York,East,P-9594,Technology,Machines,Machines 174,395.2,2,0.1,39.52
+CA-31847,2021-06-15,2021-06-18,First Class,C-8976,Consumer,Miami,California,South,P-6151,Technology,Copiers,Copiers 109,820.67,7,0.3,-82.07
+CA-98038,2019-11-30,2019-12-02,Second Class,C-2786,Consumer,New York City,New York,Central,P-5484,Office Supplies,Paper,Paper 310,767.81,7,0.0,153.56
+CA-86209,2019-08-12,2019-08-16,First Class,C-2167,Consumer,Miami,California,South,P-5687,Technology,Machines,Machines 512,494.8,9,0.1,49.48
+CA-60394,2019-04-05,2019-04-09,Standard Class,C-4152,Corporate,Houston,Texas,West,P-8529,Furniture,Bookcases,Bookcases 761,620.84,6,0.1,62.08
+CA-62669,2020-04-18,2020-04-20,Standard Class,C-8766,Consumer,New York City,Illinois,Central,P-4586,Technology,Machines,Machines 628,685.83,8,0.1,68.58
+CA-50478,2019-10-17,2019-10-20,Second Class,C-3166,Consumer,New York City,Texas,South,P-8868,Office Supplies,Art,Art 362,319.32,1,0.2,0.0
+CA-67353,2020-12-15,2020-12-22,Same Day,C-2525,Consumer,New York City,New York,Central,P-8541,Office Supplies,Labels,Labels 498,40.54,10,0.0,8.11
+CA-57373,2020-11-13,2020-11-14,Same Day,C-6607,Home Office,Chicago,New York,South,P-9976,Office Supplies,Art,Art 330,286.91,4,0.2,0.0
+CA-86311,2020-01-13,2020-01-18,Second Class,C-3381,Corporate,Miami,California,East,P-2210,Furniture,Furnishings,Furnishings 836,34.92,6,0.2,0.0
+CA-54707,2019-11-05,2019-11-11,First Class,C-3657,Corporate,Los Angeles,California,East,P-2950,Furniture,Bookcases,Bookcases 809,183.93,4,0.0,36.79
+CA-65932,2020-04-17,2020-04-19,First Class,C-7906,Corporate,New York City,Illinois,West,P-8871,Technology,Accessories,Accessories 136,972.74,1,0.0,194.55
+CA-56696,2021-05-22,2021-05-28,Second Class,C-7005,Corporate,New York City,New York,West,P-4328,Office Supplies,Paper,Paper 381,529.76,6,0.0,105.95
+CA-99064,2019-06-18,2019-06-25,Second Class,C-4985,Consumer,Houston,California,Central,P-2276,Office Supplies,Labels,Labels 832,667.4,10,0.1,66.74
+CA-61122,2020-07-12,2020-07-15,First Class,C-3534,Corporate,Miami,New York,East,P-9079,Office Supplies,Labels,Labels 402,259.2,10,0.1,25.92
+CA-11865,2019-12-19,2019-12-23,Standard Class,C-9464,Consumer,Chicago,Illinois,South,P-2331,Furniture,Bookcases,Bookcases 386,666.38,1,0.3,-66.64
+CA-52782,2021-04-25,2021-05-02,First Class,C-3971,Home Office,New York City,Texas,East,P-6977,Office Supplies,Binders,Binders 717,760.04,2,0.3,-76.0
+CA-75694,2021-09-07,2021-09-10,Same Day,C-5244,Home Office,Miami,New York,South,P-6198,Technology,Accessories,Accessories 536,513.07,3,0.1,51.31
+CA-82505,2019-07-22,2019-07-27,Same Day,C-7570,Home Office,Houston,Texas,South,P-6691,Technology,Accessories,Accessories 112,884.15,5,0.0,176.83
+CA-67138,2020-09-06,2020-09-12,Second Class,C-5775,Home Office,Houston,Texas,Central,P-1897,Office Supplies,Labels,Labels 376,907.21,1,0.1,90.72
+CA-52653,2019-09-29,2019-09-30,First Class,C-7547,Home Office,Chicago,Illinois,South,P-1418,Office Supplies,Binders,Binders 834,787.93,6,0.2,0.0
+CA-38294,2019-01-03,2019-01-09,Standard Class,C-1537,Consumer,Houston,Illinois,Central,P-2877,Technology,Accessories,Accessories 427,562.16,5,0.0,112.43
+CA-33574,2019-01-22,2019-01-24,Same Day,C-5147,Consumer,Los Angeles,Texas,South,P-6097,Office Supplies,Paper,Paper 136,107.94,3,0.3,-10.79
+CA-35900,2020-05-09,2020-05-15,First Class,C-1867,Corporate,Miami,Texas,East,P-1264,Office Supplies,Art,Art 220,851.75,6,0.1,85.18
+CA-82239,2019-02-15,2019-02-18,Same Day,C-8388,Home Office,Miami,Texas,East,P-6158,Technology,Phones,Phones 530,364.89,1,0.1,36.49
+CA-44997,2020-04-26,2020-04-27,First Class,C-4196,Consumer,New York City,Florida,Central,P-3590,Office Supplies,Art,Art 649,773.11,1,0.0,154.62
+CA-18954,2021-04-30,2021-05-01,Second Class,C-5651,Consumer,New York City,New York,East,P-8615,Technology,Accessories,Accessories 390,956.81,8,0.3,-95.68
+CA-15278,2020-02-28,2020-03-01,Standard Class,C-6162,Corporate,Houston,New York,West,P-7138,Furniture,Furnishings,Furnishings 282,10.68,7,0.0,2.14
+CA-43926,2020-02-08,2020-02-11,Standard Class,C-2439,Consumer,Houston,New York,East,P-5036,Technology,Machines,Machines 937,852.94,4,0.0,170.59
+CA-21840,2020-03-28,2020-04-03,Standard Class,C-5697,Consumer,Los Angeles,California,East,P-7675,Furniture,Furnishings,Furnishings 773,75.24,3,0.3,-7.52
+CA-94397,2019-04-12,2019-04-16,Standard Class,C-1500,Consumer,Los Angeles,New York,South,P-8971,Office Supplies,Binders,Binders 440,202.59,10,0.2,0.0
+CA-35930,2020-11-11,2020-11-17,Second Class,C-7594,Home Office,Houston,California,East,P-5351,Office Supplies,Binders,Binders 675,815.82,8,0.1,81.58
+CA-20112,2019-11-19,2019-11-23,Standard Class,C-2563,Home Office,Houston,Illinois,South,P-5958,Office Supplies,Binders,Binders 867,459.6,2,0.0,91.92
+CA-74790,2021-05-24,2021-05-31,First Class,C-5718,Corporate,Houston,Texas,East,P-7751,Furniture,Tables,Tables 778,652.67,9,0.2,0.0
+CA-16092,2019-07-04,2019-07-09,Standard Class,C-3365,Corporate,Miami,Texas,Central,P-7592,Technology,Machines,Machines 720,301.31,10,0.0,60.26
+CA-95349,2021-09-10,2021-09-15,First Class,C-9984,Home Office,Houston,Illinois,East,P-4707,Technology,Accessories,Accessories 924,703.61,3,0.3,-70.36
+CA-60685,2020-07-28,2020-07-30,First Class,C-7578,Corporate,Miami,Florida,East,P-2910,Furniture,Tables,Tables 942,959.59,9,0.2,0.0
+CA-64314,2019-07-01,2019-07-08,First Class,C-8825,Corporate,Los Angeles,Illinois,West,P-1283,Office Supplies,Binders,Binders 388,874.16,6,0.2,0.0
+CA-41160,2021-04-06,2021-04-12,Same Day,C-5890,Consumer,Los Angeles,Florida,South,P-9997,Furniture,Bookcases,Bookcases 593,473.59,4,0.1,47.36
+CA-73523,2021-03-28,2021-04-02,Second Class,C-7210,Consumer,Miami,Texas,South,P-5508,Technology,Machines,Machines 464,865.33,3,0.3,-86.53
+CA-12848,2021-09-06,2021-09-13,Second Class,C-8099,Corporate,Chicago,New York,South,P-5827,Furniture,Chairs,Chairs 786,801.35,1,0.2,0.0
+CA-56162,2020-02-05,2020-02-07,Second Class,C-2356,Consumer,New York City,Florida,East,P-9960,Technology,Accessories,Accessories 888,252.37,9,0.3,-25.24
+CA-59787,2021-01-17,2021-01-21,First Class,C-7752,Corporate,Chicago,Florida,East,P-9850,Office Supplies,Art,Art 118,247.8,10,0.1,24.78
+CA-67162,2020-12-11,2020-12-15,Second Class,C-8624,Corporate,Chicago,Florida,East,P-6489,Technology,Machines,Machines 341,684.71,1,0.1,68.47
+CA-10238,2021-07-02,2021-07-03,Same Day,C-5526,Corporate,New York City,Texas,West,P-9560,Office Supplies,Binders,Binders 383,740.47,2,0.0,148.09
+CA-85423,2020-10-24,2020-10-29,Second Class,C-1760,Corporate,Houston,California,East,P-2941,Office Supplies,Paper,Paper 222,697.1,9,0.2,0.0
+CA-50540,2019-12-12,2019-12-16,First Class,C-9451,Home Office,Los Angeles,California,West,P-4444,Furniture,Furnishings,Furnishings 767,280.25,7,0.2,0.0
+CA-68950,2020-10-10,2020-10-15,Second Class,C-9763,Corporate,Chicago,Texas,South,P-3000,Office Supplies,Paper,Paper 909,410.97,3,0.3,-41.1
+CA-85258,2020-08-03,2020-08-05,Second Class,C-4631,Consumer,Los Angeles,California,Central,P-3761,Furniture,Bookcases,Bookcases 950,182.58,3,0.1,18.26
+CA-66966,2019-12-08,2019-12-14,Same Day,C-3247,Consumer,Houston,Texas,South,P-1252,Furniture,Bookcases,Bookcases 774,526.2,2,0.1,52.62
+CA-41067,2021-03-05,2021-03-08,Standard Class,C-8502,Consumer,New York City,New York,West,P-6255,Furniture,Chairs,Chairs 257,268.04,4,0.0,53.61
+CA-52431,2020-11-26,2020-11-29,Standard Class,C-8648,Home Office,Houston,Illinois,South,P-7934,Office Supplies,Labels,Labels 359,912.94,3,0.2,0.0
+CA-30527,2021-08-30,2021-09-06,Standard Class,C-5139,Corporate,Houston,Illinois,East,P-4384,Technology,Accessories,Accessories 445,550.41,2,0.1,55.04
+CA-11223,2020-07-26,2020-08-02,First Class,C-7017,Consumer,New York City,New York,East,P-3851,Office Supplies,Labels,Labels 876,966.85,10,0.1,96.69
+CA-31007,2020-04-24,2020-04-26,Standard Class,C-3792,Consumer,New York City,Texas,West,P-4040,Furniture,Bookcases,Bookcases 583,732.92,9,0.2,0.0
+CA-95645,2019-10-25,2019-10-26,Standard Class,C-7944,Consumer,New York City,Texas,West,P-1471,Office Supplies,Art,Art 494,512.2,10,0.0,102.44
+CA-65996,2021-08-17,2021-08-18,First Class,C-5654,Corporate,Chicago,Illinois,South,P-6876,Office Supplies,Art,Art 928,449.83,2,0.2,0.0
+CA-57356,2019-10-28,2019-10-30,Standard Class,C-1859,Consumer,New York City,Illinois,Central,P-6604,Furniture,Furnishings,Furnishings 681,308.77,3,0.1,30.88
+CA-58745,2020-12-16,2020-12-18,Second Class,C-2484,Home Office,New York City,New York,West,P-6801,Office Supplies,Labels,Labels 342,521.36,6,0.2,0.0
+CA-52911,2021-09-27,2021-10-01,Second Class,C-7281,Corporate,Miami,California,South,P-7221,Furniture,Bookcases,Bookcases 866,954.97,3,0.0,190.99
+CA-37642,2021-04-05,2021-04-11,Standard Class,C-6250,Corporate,Los Angeles,Illinois,Central,P-6846,Office Supplies,Labels,Labels 652,91.66,1,0.0,18.33
+CA-46899,2020-05-24,2020-05-26,Standard Class,C-6117,Corporate,Los Angeles,California,West,P-2131,Technology,Accessories,Accessories 292,990.05,2,0.0,198.01
+CA-48727,2020-08-27,2020-09-01,Second Class,C-4384,Home Office,Los Angeles,Florida,West,P-8105,Technology,Phones,Phones 989,600.63,5,0.3,-60.06
+CA-26341,2020-05-17,2020-05-24,Standard Class,C-1365,Home Office,Miami,Florida,Central,P-8400,Furniture,Tables,Tables 833,48.27,10,0.1,4.83
+CA-52136,2021-03-07,2021-03-13,Same Day,C-1358,Home Office,Los Angeles,New York,West,P-8600,Technology,Copiers,Copiers 256,829.1,10,0.1,82.91
+CA-89116,2019-06-16,2019-06-21,First Class,C-2674,Corporate,Miami,California,West,P-4953,Furniture,Tables,Tables 882,486.19,4,0.1,48.62
+CA-59701,2021-06-06,2021-06-07,First Class,C-5763,Corporate,Miami,New York,West,P-7692,Furniture,Bookcases,Bookcases 881,829.97,10,0.1,83.0
+CA-31044,2021-08-11,2021-08-18,First Class,C-1909,Home Office,Los Angeles,California,South,P-2220,Office Supplies,Binders,Binders 726,755.38,3,0.1,75.54
+CA-55749,2019-11-09,2019-11-13,First Class,C-4359,Home Office,Houston,Florida,South,P-5725,Technology,Accessories,Accessories 349,27.1,1,0.2,0.0
+CA-13577,2020-12-06,2020-12-09,Second Class,C-7385,Consumer,Miami,New York,West,P-9723,Technology,Accessories,Accessories 257,686.88,1,0.1,68.69
+CA-98049,2021-09-09,2021-09-14,Second Class,C-5639,Corporate,Los Angeles,California,Central,P-6541,Technology,Copiers,Copiers 608,944.17,1,0.2,0.0
+CA-75742,2020-07-30,2020-08-05,Second Class,C-3246,Corporate,Los Angeles,New York,Central,P-5804,Furniture,Chairs,Chairs 464,749.04,8,0.0,149.81
+CA-12011,2020-07-11,2020-07-15,First Class,C-5038,Corporate,New York City,New York,East,P-1188,Furniture,Bookcases,Bookcases 965,938.27,1,0.0,187.65
+CA-91528,2019-01-19,2019-01-22,First Class,C-1075,Home Office,Los Angeles,Illinois,West,P-4420,Furniture,Tables,Tables 588,453.23,6,0.3,-45.32
+CA-59035,2019-03-04,2019-03-06,Second Class,C-5229,Corporate,Houston,California,Central,P-7895,Technology,Copiers,Copiers 126,342.94,10,0.1,34.29
+CA-74273,2021-01-23,2021-01-26,Same Day,C-4487,Corporate,Los Angeles,Texas,West,P-3929,Furniture,Chairs,Chairs 234,668.4,4,0.3,-66.84
+CA-34478,2019-07-17,2019-07-21,Same Day,C-7713,Home Office,Los Angeles,New York,Central,P-2131,Furniture,Tables,Tables 851,512.02,3,0.3,-51.2
+CA-67058,2019-08-24,2019-08-27,Second Class,C-3205,Home Office,Chicago,Florida,East,P-9369,Technology,Phones,Phones 280,596.2,2,0.0,119.24
+CA-44248,2020-11-09,2020-11-15,Second Class,C-5758,Consumer,New York City,Florida,West,P-2526,Office Supplies,Binders,Binders 184,166.52,7,0.3,-16.65
+CA-35030,2021-08-23,2021-08-27,Second Class,C-6312,Corporate,Houston,Illinois,Central,P-9206,Furniture,Tables,Tables 836,946.97,8,0.2,0.0
+CA-99800,2019-03-18,2019-03-21,Standard Class,C-2850,Corporate,Chicago,Texas,West,P-5949,Furniture,Furnishings,Furnishings 388,674.89,2,0.2,0.0
+CA-54161,2019-12-03,2019-12-08,Second Class,C-2521,Home Office,Houston,Florida,West,P-6438,Furniture,Tables,Tables 143,882.6,3,0.0,176.52
+CA-29498,2019-01-17,2019-01-24,First Class,C-2978,Home Office,Chicago,Florida,South,P-7742,Technology,Phones,Phones 102,747.57,10,0.3,-74.76
+CA-98261,2019-06-11,2019-06-13,Same Day,C-6396,Consumer,Miami,Illinois,East,P-4336,Technology,Accessories,Accessories 593,677.92,7,0.2,0.0
+CA-45802,2020-07-02,2020-07-03,Standard Class,C-9305,Home Office,Houston,New York,West,P-3237,Technology,Accessories,Accessories 512,785.83,7,0.3,-78.58
+CA-23706,2019-02-03,2019-02-05,Same Day,C-9175,Corporate,Los Angeles,Illinois,West,P-1756,Office Supplies,Labels,Labels 511,403.04,1,0.0,80.61
+CA-86682,2019-03-14,2019-03-15,Second Class,C-9641,Home Office,New York City,California,West,P-2722,Furniture,Furnishings,Furnishings 245,646.18,10,0.3,-64.62
+CA-75108,2020-08-18,2020-08-20,Second Class,C-5539,Home Office,Los Angeles,Illinois,Central,P-2239,Technology,Machines,Machines 344,316.38,3,0.0,63.28
+CA-96101,2021-07-18,2021-07-20,Same Day,C-5777,Home Office,Houston,California,South,P-4293,Office Supplies,Art,Art 334,488.08,4,0.1,48.81
+CA-85792,2020-05-21,2020-05-28,First Class,C-2404,Consumer,New York City,New York,South,P-6731,Furniture,Tables,Tables 103,71.54,4,0.2,0.0
+CA-45812,2020-11-25,2020-11-27,Standard Class,C-2191,Home Office,Houston,Florida,South,P-2914,Furniture,Furnishings,Furnishings 268,760.5,10,0.3,-76.05
+CA-32588,2019-04-12,2019-04-18,Second Class,C-8699,Consumer,Chicago,Florida,East,P-9257,Technology,Phones,Phones 143,243.17,7,0.3,-24.32
+CA-16849,2020-02-06,2020-02-10,Standard Class,C-4882,Corporate,Houston,Illinois,Central,P-8463,Technology,Machines,Machines 304,465.6,7,0.0,93.12
+CA-46036,2020-07-18,2020-07-20,Second Class,C-1240,Home Office,Houston,Texas,East,P-5913,Office Supplies,Labels,Labels 893,256.39,8,0.2,0.0
+CA-27968,2020-01-26,2020-02-02,First Class,C-4203,Consumer,Los Angeles,New York,West,P-2736,Technology,Phones,Phones 445,27.23,9,0.2,0.0
+CA-24084,2019-08-21,2019-08-22,Same Day,C-7541,Corporate,Houston,New York,Central,P-3105,Office Supplies,Labels,Labels 415,235.72,1,0.3,-23.57
+CA-45696,2019-01-22,2019-01-28,Second Class,C-5819,Corporate,Houston,Florida,West,P-2609,Furniture,Tables,Tables 680,953.89,1,0.2,0.0
+CA-79947,2019-05-07,2019-05-08,Standard Class,C-3394,Corporate,Chicago,Texas,East,P-1951,Office Supplies,Art,Art 410,346.45,3,0.2,0.0
+CA-67888,2020-04-05,2020-04-09,Same Day,C-5516,Home Office,Houston,Illinois,West,P-6136,Office Supplies,Labels,Labels 876,405.67,1,0.1,40.57
+CA-59422,2020-06-20,2020-06-26,Same Day,C-7291,Consumer,Los Angeles,Florida,Central,P-5175,Office Supplies,Labels,Labels 567,984.74,10,0.3,-98.47
+CA-22978,2021-01-18,2021-01-25,Standard Class,C-1032,Home Office,Chicago,Florida,Central,P-2351,Furniture,Chairs,Chairs 579,212.36,7,0.2,0.0
+CA-15144,2021-06-20,2021-06-22,First Class,C-6109,Corporate,Los Angeles,Florida,East,P-6194,Furniture,Furnishings,Furnishings 710,612.79,8,0.0,122.56
+CA-94344,2019-01-07,2019-01-11,Same Day,C-7276,Consumer,Houston,Texas,West,P-1402,Office Supplies,Paper,Paper 179,894.14,9,0.3,-89.41
+CA-44381,2021-08-16,2021-08-22,Second Class,C-7546,Corporate,Chicago,California,West,P-1794,Office Supplies,Paper,Paper 409,868.57,9,0.3,-86.86
+CA-21711,2021-04-15,2021-04-17,First Class,C-6300,Consumer,Los Angeles,New York,Central,P-2677,Technology,Accessories,Accessories 645,284.7,10,0.3,-28.47
+CA-81429,2019-01-16,2019-01-22,Same Day,C-3476,Corporate,Miami,Illinois,East,P-5008,Furniture,Furnishings,Furnishings 277,566.45,10,0.0,113.29
+CA-11122,2020-09-07,2020-09-13,Second Class,C-2142,Corporate,New York City,California,South,P-8316,Office Supplies,Art,Art 324,697.2,3,0.1,69.72
+CA-38452,2019-09-13,2019-09-19,First Class,C-4611,Corporate,Los Angeles,New York,East,P-4992,Technology,Accessories,Accessories 615,943.32,9,0.2,0.0
+CA-88608,2019-02-20,2019-02-24,Standard Class,C-5200,Home Office,Miami,New York,West,P-9512,Technology,Phones,Phones 246,897.81,6,0.1,89.78
+CA-29943,2019-12-09,2019-12-10,First Class,C-2599,Corporate,Chicago,Texas,South,P-7550,Furniture,Chairs,Chairs 818,492.06,5,0.3,-49.21
+CA-68770,2021-03-21,2021-03-24,First Class,C-5330,Corporate,Chicago,Illinois,South,P-7877,Furniture,Furnishings,Furnishings 509,339.79,4,0.0,67.96
+CA-30736,2019-06-24,2019-06-25,Standard Class,C-2900,Consumer,Houston,Florida,East,P-6601,Furniture,Bookcases,Bookcases 944,579.8,7,0.1,57.98
+CA-16170,2020-04-15,2020-04-18,First Class,C-1637,Home Office,Chicago,Illinois,South,P-9697,Office Supplies,Binders,Binders 284,741.03,5,0.3,-74.1
+CA-74801,2021-08-03,2021-08-07,Same Day,C-3613,Home Office,New York City,Texas,Central,P-3955,Technology,Machines,Machines 488,355.12,10,0.1,35.51
+CA-83879,2019-12-31,2020-01-05,Same Day,C-4975,Corporate,Chicago,New York,Central,P-8858,Office Supplies,Labels,Labels 128,915.34,10,0.2,0.0
+CA-90365,2020-01-04,2020-01-10,Same Day,C-3688,Corporate,New York City,Illinois,Central,P-3163,Furniture,Furnishings,Furnishings 680,855.45,1,0.1,85.55
+CA-60274,2019-05-01,2019-05-02,Standard Class,C-7578,Corporate,Houston,New York,Central,P-1175,Furniture,Furnishings,Furnishings 430,817.69,6,0.2,0.0
+CA-38887,2021-01-29,2021-01-31,First Class,C-1279,Home Office,Houston,Texas,West,P-1388,Office Supplies,Art,Art 550,371.98,1,0.2,0.0
+CA-38831,2019-02-18,2019-02-25,First Class,C-8133,Home Office,New York City,Texas,East,P-1651,Furniture,Chairs,Chairs 566,523.26,5,0.0,104.65
+CA-13722,2019-07-13,2019-07-14,First Class,C-3971,Corporate,Miami,New York,Central,P-7326,Technology,Phones,Phones 295,197.31,7,0.1,19.73
+CA-44631,2020-03-20,2020-03-27,Same Day,C-3353,Consumer,Chicago,Texas,Central,P-8635,Furniture,Chairs,Chairs 413,767.88,7,0.3,-76.79
+CA-42697,2020-12-19,2020-12-26,Second Class,C-5452,Corporate,Los Angeles,Florida,East,P-2396,Furniture,Chairs,Chairs 803,42.82,10,0.0,8.56
+CA-31048,2019-11-21,2019-11-25,Same Day,C-7486,Corporate,Miami,California,South,P-3903,Office Supplies,Binders,Binders 948,189.74,7,0.0,37.95
+CA-24673,2021-04-29,2021-05-04,First Class,C-8957,Consumer,Los Angeles,Florida,West,P-4671,Furniture,Bookcases,Bookcases 384,122.42,3,0.1,12.24
+CA-57889,2021-03-26,2021-03-29,Same Day,C-5225,Home Office,Chicago,Texas,East,P-5348,Office Supplies,Binders,Binders 449,214.06,6,0.0,42.81
+CA-34645,2019-01-10,2019-01-17,Standard Class,C-2816,Corporate,New York City,Texas,East,P-9013,Office Supplies,Binders,Binders 981,71.5,1,0.0,14.3
+CA-74620,2021-07-24,2021-07-31,Same Day,C-2879,Consumer,Miami,Illinois,West,P-8850,Technology,Copiers,Copiers 377,54.07,3,0.1,5.41
+CA-44685,2021-07-22,2021-07-27,Same Day,C-9648,Corporate,Los Angeles,New York,Central,P-1168,Office Supplies,Art,Art 420,524.75,5,0.2,0.0
+CA-65633,2019-11-16,2019-11-18,First Class,C-8397,Consumer,Los Angeles,Illinois,West,P-6659,Office Supplies,Binders,Binders 608,335.43,10,0.3,-33.54
+CA-15856,2020-08-21,2020-08-24,Same Day,C-3255,Corporate,Chicago,Texas,West,P-4662,Furniture,Bookcases,Bookcases 153,764.14,5,0.0,152.83
+CA-10649,2021-07-25,2021-08-01,First Class,C-3278,Home Office,Houston,California,South,P-4193,Furniture,Tables,Tables 137,780.37,2,0.2,0.0
+CA-37483,2020-12-24,2020-12-29,Standard Class,C-8491,Home Office,Houston,New York,East,P-4891,Office Supplies,Paper,Paper 846,895.76,3,0.0,179.15
+CA-86498,2020-06-27,2020-06-29,Same Day,C-7225,Corporate,Los Angeles,Illinois,South,P-3699,Office Supplies,Paper,Paper 482,803.46,3,0.1,80.35
+CA-65650,2019-05-21,2019-05-27,Standard Class,C-5077,Corporate,Houston,Florida,Central,P-4485,Office Supplies,Binders,Binders 747,611.33,2,0.3,-61.13
+CA-64584,2020-02-04,2020-02-10,First Class,C-9377,Consumer,Miami,California,Central,P-3041,Furniture,Tables,Tables 275,59.26,2,0.3,-5.93
+CA-13367,2020-07-03,2020-07-10,Same Day,C-6587,Consumer,New York City,California,East,P-8816,Technology,Machines,Machines 928,636.1,9,0.1,63.61
+CA-80409,2020-08-29,2020-09-04,Standard Class,C-1867,Consumer,Miami,Illinois,West,P-2821,Office Supplies,Labels,Labels 789,273.65,7,0.0,54.73
+CA-79183,2020-04-20,2020-04-25,Second Class,C-1299,Home Office,Houston,New York,West,P-9934,Furniture,Bookcases,Bookcases 382,348.76,2,0.1,34.88
+CA-39419,2020-12-04,2020-12-07,First Class,C-9548,Home Office,Houston,New York,East,P-8750,Technology,Copiers,Copiers 669,981.44,2,0.0,196.29
+CA-21785,2019-08-19,2019-08-25,Same Day,C-4298,Corporate,Miami,Illinois,South,P-5740,Technology,Accessories,Accessories 527,505.62,10,0.1,50.56
+CA-54018,2020-10-20,2020-10-24,First Class,C-3635,Home Office,Los Angeles,Florida,South,P-6839,Technology,Phones,Phones 310,713.72,3,0.3,-71.37
+CA-37033,2019-05-16,2019-05-23,First Class,C-3507,Consumer,Miami,Illinois,Central,P-9111,Furniture,Bookcases,Bookcases 332,184.65,5,0.0,36.93
+CA-92588,2019-05-10,2019-05-14,Second Class,C-1805,Home Office,Chicago,Illinois,East,P-6675,Office Supplies,Labels,Labels 121,835.59,10,0.3,-83.56
+CA-57697,2019-11-19,2019-11-24,Standard Class,C-8089,Home Office,Houston,Florida,South,P-3217,Office Supplies,Art,Art 214,576.72,1,0.3,-57.67
+CA-20330,2020-04-29,2020-05-02,First Class,C-4146,Consumer,New York City,California,West,P-8595,Office Supplies,Binders,Binders 864,245.09,5,0.2,0.0
+CA-35185,2020-04-16,2020-04-23,Second Class,C-8096,Consumer,Miami,California,Central,P-7014,Technology,Phones,Phones 513,388.87,9,0.2,0.0
+CA-20630,2019-02-18,2019-02-24,Second Class,C-5807,Consumer,Los Angeles,Texas,West,P-7880,Technology,Accessories,Accessories 667,402.08,7,0.1,40.21
+CA-23400,2021-09-04,2021-09-10,Same Day,C-3284,Home Office,Miami,Illinois,East,P-8112,Technology,Machines,Machines 994,274.99,7,0.2,0.0
+CA-63651,2021-05-17,2021-05-20,Standard Class,C-8107,Home Office,Houston,Illinois,South,P-9357,Office Supplies,Labels,Labels 201,26.13,1,0.1,2.61
+CA-36692,2019-11-01,2019-11-02,Second Class,C-5575,Consumer,Miami,Texas,South,P-4951,Furniture,Bookcases,Bookcases 769,169.88,9,0.1,16.99
+CA-85145,2020-05-16,2020-05-20,Same Day,C-1813,Home Office,Miami,Illinois,South,P-3817,Furniture,Furnishings,Furnishings 286,669.77,10,0.0,133.95
+CA-70243,2019-03-18,2019-03-20,First Class,C-5462,Home Office,Los Angeles,Florida,West,P-3493,Furniture,Furnishings,Furnishings 834,565.85,3,0.1,56.59
+CA-91244,2020-02-06,2020-02-11,Same Day,C-6698,Home Office,Miami,California,East,P-5961,Technology,Machines,Machines 702,751.76,1,0.1,75.18
+CA-20099,2020-08-27,2020-09-03,Standard Class,C-4906,Consumer,Houston,Florida,South,P-7350,Furniture,Bookcases,Bookcases 439,236.54,6,0.1,23.65
+CA-68880,2019-03-15,2019-03-21,Standard Class,C-4902,Corporate,Chicago,Texas,Central,P-5540,Technology,Machines,Machines 399,647.41,2,0.3,-64.74
+CA-61622,2021-02-28,2021-03-06,Standard Class,C-3405,Home Office,New York City,Florida,Central,P-4757,Technology,Accessories,Accessories 503,138.33,1,0.1,13.83
+CA-58808,2020-03-21,2020-03-24,Same Day,C-2575,Consumer,Houston,New York,Central,P-6547,Technology,Accessories,Accessories 663,55.06,9,0.3,-5.51
+CA-77823,2019-05-09,2019-05-13,First Class,C-4593,Corporate,Houston,Texas,East,P-2269,Technology,Machines,Machines 584,809.27,3,0.0,161.85
+CA-87574,2021-01-28,2021-01-30,First Class,C-5941,Home Office,Los Angeles,California,Central,P-9605,Office Supplies,Binders,Binders 527,987.85,5,0.2,0.0
+CA-86377,2021-07-09,2021-07-10,Second Class,C-3689,Consumer,Chicago,New York,East,P-8399,Technology,Accessories,Accessories 954,940.1,7,0.2,0.0
+CA-50303,2020-05-20,2020-05-23,Standard Class,C-3167,Consumer,Miami,Florida,East,P-4359,Furniture,Chairs,Chairs 216,498.91,2,0.0,99.78
+CA-80034,2019-08-22,2019-08-29,First Class,C-1250,Consumer,Los Angeles,Florida,South,P-7077,Furniture,Chairs,Chairs 630,211.14,6,0.1,21.11
+CA-76313,2020-07-15,2020-07-20,Same Day,C-3884,Consumer,New York City,New York,South,P-7110,Office Supplies,Labels,Labels 360,594.19,2,0.2,0.0
+CA-13893,2020-05-27,2020-06-02,Second Class,C-3953,Consumer,Chicago,Florida,Central,P-2043,Technology,Accessories,Accessories 578,852.81,7,0.0,170.56
+CA-49827,2021-05-17,2021-05-24,Standard Class,C-3062,Corporate,Los Angeles,Illinois,West,P-2403,Office Supplies,Paper,Paper 545,853.3,3,0.3,-85.33
+CA-11324,2021-08-13,2021-08-17,First Class,C-5715,Home Office,Miami,Texas,South,P-5579,Technology,Accessories,Accessories 446,482.47,10,0.3,-48.25
+CA-83995,2020-11-11,2020-11-18,Standard Class,C-7650,Home Office,Chicago,New York,West,P-8813,Furniture,Bookcases,Bookcases 305,981.33,7,0.3,-98.13
+CA-41623,2020-10-07,2020-10-14,Second Class,C-1650,Corporate,New York City,California,South,P-5417,Furniture,Furnishings,Furnishings 291,452.47,9,0.0,90.49
+CA-60202,2019-01-18,2019-01-23,First Class,C-6872,Corporate,Los Angeles,California,South,P-1753,Office Supplies,Art,Art 921,801.6,8,0.1,80.16
+CA-55503,2021-05-15,2021-05-20,Same Day,C-5178,Consumer,Miami,Illinois,East,P-3566,Furniture,Furnishings,Furnishings 477,234.64,5,0.3,-23.46
+CA-94867,2019-05-27,2019-05-29,Standard Class,C-8701,Corporate,Los Angeles,California,Central,P-9548,Technology,Copiers,Copiers 993,48.68,6,0.3,-4.87
+CA-56150,2021-01-15,2021-01-19,Second Class,C-7386,Home Office,Miami,California,East,P-2761,Office Supplies,Art,Art 333,215.49,10,0.2,0.0
+CA-84627,2021-06-30,2021-07-02,Standard Class,C-4082,Consumer,Chicago,Illinois,Central,P-3003,Technology,Phones,Phones 750,265.4,5,0.2,0.0
+CA-54409,2020-07-15,2020-07-19,Standard Class,C-3668,Corporate,Los Angeles,Illinois,Central,P-8723,Furniture,Bookcases,Bookcases 365,817.55,7,0.3,-81.75
+CA-15645,2021-05-10,2021-05-11,Second Class,C-5302,Home Office,Chicago,Illinois,South,P-9265,Technology,Machines,Machines 383,683.28,4,0.0,136.66
+CA-32648,2019-07-13,2019-07-16,Same Day,C-4747,Consumer,Miami,Texas,East,P-1360,Furniture,Furnishings,Furnishings 479,307.05,6,0.1,30.71
+CA-34094,2019-07-01,2019-07-06,First Class,C-7569,Home Office,New York City,New York,West,P-7743,Technology,Phones,Phones 251,634.62,5,0.2,0.0
+CA-89203,2019-11-30,2019-12-06,Standard Class,C-8836,Corporate,New York City,Texas,South,P-2409,Furniture,Bookcases,Bookcases 665,915.38,2,0.3,-91.54
+CA-99809,2019-12-08,2019-12-09,Second Class,C-5122,Consumer,New York City,California,South,P-4308,Furniture,Chairs,Chairs 199,332.15,2,0.0,66.43
+CA-59086,2020-09-10,2020-09-15,Standard Class,C-6248,Consumer,Houston,California,Central,P-6800,Furniture,Bookcases,Bookcases 219,829.33,1,0.2,0.0
+CA-68876,2019-01-12,2019-01-17,Second Class,C-2602,Home Office,New York City,Illinois,East,P-3254,Furniture,Bookcases,Bookcases 783,312.51,2,0.3,-31.25
+CA-85590,2019-12-04,2019-12-08,Second Class,C-1447,Home Office,Los Angeles,New York,West,P-1831,Technology,Accessories,Accessories 987,743.24,3,0.3,-74.32
+CA-98465,2020-10-20,2020-10-27,Same Day,C-2724,Corporate,Los Angeles,Florida,South,P-7026,Office Supplies,Art,Art 118,921.91,6,0.0,184.38
+CA-99006,2020-10-24,2020-10-28,Second Class,C-4788,Consumer,New York City,Florida,East,P-6346,Technology,Accessories,Accessories 195,911.9,4,0.2,0.0
+CA-98504,2019-07-10,2019-07-13,Second Class,C-5283,Consumer,Houston,Illinois,East,P-9762,Technology,Copiers,Copiers 694,84.17,3,0.3,-8.42
+CA-50156,2019-03-19,2019-03-24,Standard Class,C-5519,Home Office,Houston,Illinois,Central,P-4671,Office Supplies,Labels,Labels 793,530.64,6,0.3,-53.06
+CA-98498,2019-04-09,2019-04-11,Second Class,C-1604,Home Office,Los Angeles,Illinois,Central,P-3292,Technology,Copiers,Copiers 801,491.07,9,0.1,49.11
+CA-60907,2020-09-11,2020-09-14,Standard Class,C-6392,Home Office,Los Angeles,New York,Central,P-3306,Furniture,Tables,Tables 746,806.68,6,0.3,-80.67
+CA-29008,2020-07-18,2020-07-21,Same Day,C-6694,Home Office,Houston,New York,West,P-2744,Office Supplies,Binders,Binders 977,665.32,3,0.1,66.53
+CA-61906,2020-01-22,2020-01-27,First Class,C-9254,Consumer,Los Angeles,Texas,West,P-8362,Technology,Phones,Phones 689,73.83,2,0.2,0.0
+CA-63065,2021-04-28,2021-05-04,First Class,C-6188,Consumer,Chicago,Illinois,South,P-1385,Technology,Accessories,Accessories 715,648.14,7,0.2,0.0
+CA-87592,2021-02-23,2021-03-02,First Class,C-8654,Home Office,New York City,Florida,South,P-5895,Office Supplies,Binders,Binders 984,79.94,2,0.0,15.99
+CA-40717,2019-04-04,2019-04-10,First Class,C-3888,Home Office,Miami,Illinois,Central,P-9919,Technology,Accessories,Accessories 802,63.14,3,0.3,-6.31
+CA-93143,2020-11-03,2020-11-08,Second Class,C-8977,Consumer,New York City,Illinois,West,P-6178,Technology,Phones,Phones 186,381.14,2,0.0,76.23
+CA-42285,2019-08-07,2019-08-10,First Class,C-8571,Consumer,New York City,Texas,East,P-7585,Office Supplies,Art,Art 681,160.6,4,0.0,32.12
+CA-63481,2020-04-06,2020-04-07,Standard Class,C-1855,Consumer,Los Angeles,California,Central,P-3077,Technology,Machines,Machines 539,350.82,10,0.3,-35.08
+CA-43302,2020-11-19,2020-11-26,Second Class,C-3960,Consumer,Chicago,Florida,Central,P-6695,Technology,Machines,Machines 646,972.87,1,0.0,194.57
+CA-12517,2021-05-20,2021-05-26,Standard Class,C-6743,Home Office,Miami,Florida,West,P-4125,Furniture,Tables,Tables 766,361.7,4,0.3,-36.17
+CA-84815,2020-05-28,2020-05-29,Second Class,C-8492,Corporate,Miami,California,Central,P-1723,Technology,Phones,Phones 629,199.81,2,0.2,0.0
+CA-15532,2021-05-11,2021-05-14,Second Class,C-7421,Home Office,Chicago,Texas,East,P-9131,Office Supplies,Labels,Labels 514,698.41,1,0.2,0.0
+CA-97416,2020-11-04,2020-11-10,Same Day,C-6110,Home Office,Houston,Texas,South,P-4627,Office Supplies,Binders,Binders 841,690.99,1,0.0,138.2
+CA-17377,2020-04-19,2020-04-24,First Class,C-1275,Consumer,Houston,New York,Central,P-1983,Furniture,Chairs,Chairs 283,755.35,5,0.3,-75.53
+CA-76040,2019-12-25,2019-12-28,First Class,C-4892,Consumer,Houston,New York,East,P-4851,Technology,Accessories,Accessories 364,77.35,7,0.1,7.73
+CA-44514,2019-05-30,2019-06-01,Second Class,C-7680,Consumer,Chicago,New York,West,P-2039,Technology,Copiers,Copiers 570,407.42,7,0.2,0.0
+CA-55338,2019-04-21,2019-04-27,Standard Class,C-6390,Consumer,Houston,New York,East,P-7880,Office Supplies,Paper,Paper 979,901.76,2,0.2,0.0
+CA-58138,2021-08-08,2021-08-10,Standard Class,C-6385,Home Office,Houston,Texas,West,P-2553,Office Supplies,Binders,Binders 319,668.15,3,0.1,66.81
